@@ -107,4 +107,4 @@ A video tutorial can be found at: https://youtu.be/mf4-4Rs_smM
 - Miguel Ángel Pardo
 
 For any questions or support, please contact the authors:
-https://github.com/druzzo/WaterRatioLabel/
+https://github.com/druzzo/IrrigationEcolabel/
