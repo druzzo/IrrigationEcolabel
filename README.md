@@ -97,7 +97,7 @@ Follow the on-screen prompts to enter the required data and generate the results
 If you do not have the necessary GIS data but want to see how the software works, GIS data have been added in the "GISdataExample" folder for practice. 
 
 ## Video Tutorial
-A video tutorial can be found at: https://youtu.be/mf4-4Rs_smM
+A video tutorial can be found at: https://youtu.be/24AWkNPNHOA
 
 ## Authors
 - Sergio Vélez
